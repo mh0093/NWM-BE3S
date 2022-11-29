@@ -1,4 +1,5 @@
 # NWM-BE3S
+The NWM-BE3S code aims to represent the stream-hilllslope catchment-scale continuum processes for improved predictability of catchment hydrologic variables.
 
 The compressed code of NWM-BE3S should be downloaded on your local station (mac/linux) and unzipped using the command: 
 
@@ -10,4 +11,3 @@ The model code has been tested using modules such as intel/2018b, netCDF/4.6.1, 
 
 More helpful instruction on how to compile the code can be found: https://ral.ucar.edu/projects/wrf_hydro/documentation/wrf-hydro-v52-documentation
 
-The NWM-BE3S code aims to represent the stream-hilllslope catchment-scale continuum processes for improved predictability of catchment hydrologic variables.
