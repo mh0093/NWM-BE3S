@@ -9,3 +9,5 @@ The files contains the entire source code for the NWM-BE3S simulations and users
 The model code has been tested using modules such as intel/2018b, netCDF/4.6.1, netCDF-Fortran/4.4.4. 
 
 More helpful instruction on how to compile the code can be found: https://ral.ucar.edu/projects/wrf_hydro/documentation/wrf-hydro-v52-documentation
+
+The NWM-BE3S code aims to represent the stream-hilllslope catchment-scale continuum processes for improved predictability of catchment hydrologic variables.
